@@ -12,8 +12,5 @@ public class checkingEqualitywithoutEquality {
         }else {
             System.out.println("Both numbers are not equal");
         }
-
-
-
     }
 }
